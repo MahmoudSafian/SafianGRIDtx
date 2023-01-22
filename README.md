@@ -6,7 +6,7 @@ To the best of my ability, I tested and evaluated the simulation tool using vari
 As a user of this simulation programme, you may assist us in improving future versions by providing feedback on any problems,
 inconsistencies, or bugs. Please see my LinkedIn profile for additional information: 
 
-<a href="https://www.linkedin.com/in/mahmoud-safian-b9771714b/" </a>
+"https://www.linkedin.com/in/mahmoud-safian-b9771714b/
 
 
 
